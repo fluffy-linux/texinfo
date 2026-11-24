@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright 2011-2026 Free Software Foundation, Inc.
 #
 # This file is free software; as a special exception the author gives

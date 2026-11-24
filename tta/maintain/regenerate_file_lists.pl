@@ -1,4 +1,4 @@
-#! /usr/bin/env perl
+#!/sw/perl/bin/perl
 # Copyright 2011-2026 Free Software Foundation, Inc.
 #
 # This file is free software; as a special exception the author gives

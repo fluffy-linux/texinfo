@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Use information from test driving files to regenerate test scripts
 # that run only one test, and file lists to be used in Makefiles.
 #

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Regenerate tta/tests/input/non_ascii.tar
 #
 # Copyright 2024-2026 Free Software Foundation, Inc.
