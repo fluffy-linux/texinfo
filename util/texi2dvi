@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # texi2dvi --- produce DVI (or PDF) files from Texinfo (or (La)TeX) sources.
 #
 # Copyright 1992-2026 Free Software Foundation, Inc.

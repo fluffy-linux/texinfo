@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 # Written by Thomas Esser.  Public domain.
 # Execute texi2dvi --pdf.
 
