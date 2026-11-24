@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 
 LC_ALL=C; export LC_ALL
 LANGUAGE=en; export LANGUAGE

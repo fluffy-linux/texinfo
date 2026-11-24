@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2022-2026 Free Software Foundation, Inc.
 #
 # This program is free software; you can redistribute it and/or modify

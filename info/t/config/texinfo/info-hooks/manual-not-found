@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 # We need to include this dummy hook to stop the test suite trying to
 # run an installed hook.

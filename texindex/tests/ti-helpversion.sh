@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 # This file is public domain.
 
 # check texindex --help and --version.  We'll just ensure that stdout is

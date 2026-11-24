@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # test_refold.sh: compare the output of parse_refold.pl and the original
 # file for all the Texinfo manuals generated based on tta/perl/t/*.t tests
 
