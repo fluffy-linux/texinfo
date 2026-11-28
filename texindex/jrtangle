@@ -395,8 +395,6 @@ BEGIN {
 	} else {
 		# POSIX recipe
 		Update_recipe = \
-			"PATH=/bin:/usr/bin\n" \
-			"export PATH\n" \
 			"destname=\"@DIR@/@FILE@\"\n" \
 			"outname=\"${destname}@SUFFIX@\"\n" \
 			"if [ ! -f \"$destname\" ]\n" \
